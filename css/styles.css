@@ -1,0 +1,13 @@
+h2{
+  text-decoration: underline;
+  text-align: center;
+}
+body{
+  background-color: green;
+}
+li p{
+  display: none;
+}
+li h3{
+  display: show;
+}
